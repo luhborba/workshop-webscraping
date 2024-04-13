@@ -13,6 +13,7 @@ pydocstyle = "^6.3.0"
 pre-commit = "^3.7.0"
 taskipy = "^1.12.2"
 pip-audit = "^2.7.2"
+selenium = "^4.19.0"
 
 
 [build-system]
